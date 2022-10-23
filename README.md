@@ -120,13 +120,13 @@ Pour conclure, les systèmes de stockage ont pour origine les cartes perforées 
 
 ## Sources utilisées :
 
-https://www.cnetfrance.fr/produits/sigles-et-symboles-de-cartes-memoires-les-comprendre-pour-ne-pas-se-tromper-39799567.htm#:~:text=Ceux%20li%C3%A9s%20%C3%A0%20la%20capacit%C3%A9,mais%20celles%2Dci%20ont%20disparu.
-https://fr.wikipedia.org/wiki/Carte_SD#:~:text=Une%20carte%20SD%20(%C2%AB%20SD%20%C2%BB,industriels%20Panasonic%2C%20SanDisk%20et%20Toshiba.
-https://www.gralon.net/articles/photo-et-video/photo-et-video/article-la-carte-sd---presentation-et-caracteristiques-1792.htm
-http://nicolaskaplan.fr/blog/carte-sd-cest-quoi-comment-ca-fonctionne/
-https://www.tomshardware.fr/de-la-carte-perforee-a-la-memoire-flash-la-grande-histoire-du-stockage-des-donnees/
-https://fr.wikipedia.org/wiki/Carte_perforée
-http://www.plume-et-papier.com/carte_perforee.php
-https://fr.wikipedia.org/wiki/Herman_Hollerith
-https://fr.wikipedia.org/wiki/CD-ROM
-https://fr.wikipedia.org/wiki/Cl%C3%A9_USB
+  * https://www.cnetfrance.fr/produits/sigles-et-symboles-de-cartes-memoires-les-comprendre-pour-ne-pas-se-tromper-39799567.htm#:~:text=Ceux%20li%C3%A9s%20%C3%A0%20la%20capacit%C3%A9,mais%20celles%2Dci%20ont%20disparu.
+  * https://fr.wikipedia.org/wiki/Carte_SD#:~:text=Une%20carte%20SD%20(%C2%AB%20SD%20%C2%BB,industriels%20Panasonic%2C%20SanDisk%20et%20Toshiba.
+  * https://www.gralon.net/articles/photo-et-video/photo-et-video/article-la-carte-sd---presentation-et-caracteristiques-1792.htm
+  * http://nicolaskaplan.fr/blog/carte-sd-cest-quoi-comment-ca-fonctionne/
+  * https://www.tomshardware.fr/de-la-carte-perforee-a-la-memoire-flash-la-grande-histoire-du-stockage-des-donnees/
+  * https://fr.wikipedia.org/wiki/Carte_perforée
+  * http://www.plume-et-papier.com/carte_perforee.php
+  * https://fr.wikipedia.org/wiki/Herman_Hollerith
+  * https://fr.wikipedia.org/wiki/CD-ROM
+  * https://fr.wikipedia.org/wiki/Cl%C3%A9_USB
