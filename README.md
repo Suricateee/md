@@ -3,9 +3,9 @@
 
 ## Introduction
 	
-##### Dans ce rapport, nous allons vous présenter l'évolution des systèmes de stockage amovibles. Les tout premiers systèmes de stockage amovibles ont été inventés très tôt, en 1728, et il y a encore de nouvelles innovations de nos jours. Ces derniers étaient très gros et ne pouvaient contenir que très peu de données. Tandis que les derniers systèmes de stockage peuvent être très petits et stocker énormément de données (notamment les cartes microSD qui peuvent avoir une capacité de stockage presque égale à 2 To pour seulement quelques millimètres). Nous verrons dans un premier temps, l’élément à l’origine de toute forme de stockage informatique : la carte perforée ; puis nous parlerons des bandes magnétiques, des disquettes et des CD-ROM, prédécesseurs de la clef USB et des cartes SD dont nous parlerons aussi dans ce dossier.
+Dans ce rapport, nous allons vous présenter l'évolution des systèmes de stockage amovibles. Les tout premiers systèmes de stockage amovibles ont été inventés très tôt, en 1728, et il y a encore de nouvelles innovations de nos jours. Ces derniers étaient très gros et ne pouvaient contenir que très peu de données. Tandis que les derniers systèmes de stockage peuvent être très petits et stocker énormément de données (notamment les cartes microSD qui peuvent avoir une capacité de stockage presque égale à 2 To pour seulement quelques millimètres). Nous verrons dans un premier temps, l’élément à l’origine de toute forme de stockage informatique : la carte perforée ; puis nous parlerons des bandes magnétiques, des disquettes et des CD-ROM, prédécesseurs de la clef USB et des cartes SD dont nous parlerons aussi dans ce dossier.
 
-Les Cartes perforées 
+## Les Cartes perforées 
 Une carte perforée est un morceau de papier troué à certains endroits. Elle peut être lue par un appareil spécial qui détecte la présence ou non de trous et qui transmet cette information pour qu’elle soit traitée. Chaque carte possédait un nombre défini de colonnes, et chaque colonne comportait les 10 premiers chiffres, de 0 à 9 compris. Pour représenter le chiffre voulu, la ligne correspondante était perforée. Les cartes les plus utilisées comportaient 80 colonnes, mais d’autres cartes de différents formats ont été proposées comme par exemple avec 132 colonnes ou encore 96 colonnes, commercialisées par IBM (International Business Machines Corporation). La version de 80 colonnes avait donc une capacité de stockage maximum de 960 bits (80 colonnes de chacune 12 points, 80x12 = 960). 
 Ces cartes ont permis le traitement automatique de bulletins de salaire, de calculs et de statistiques mais ont aussi permis les premières écritures de codes source. 
 On peut considérer ce dispositif de stockage comme l’un des premiers dispositifs de stockage dans l’informatique. En effet, l’ancêtre de cette carte, un ruban perforé a tout d’abord été créé en 1725 par un français, Basile Bouchon, mais, 3 ans plus tard, en 1728, Jean Baptiste Falcon apporte les cartes perforées, qu’il va relier entre elles et qui vont remplacer le ruban. Joseph Marie Jacquard interprète les données contenues dans ces dispositifs dans son métier à tisser, et c’est ainsi qu’il créa le métier à tisser mécanique programmable qu’on peut aussi appeler “Métier Jacquard”.
@@ -19,7 +19,7 @@ Ce dispositif a influencé la confection des premiers ordinateurs, et plus préc
 Ce type de stockage a progressivement disparu à partir de 1970, quand sont arrivées les bandes magnétiques. Cependant, ces cartes sont restées utilisées dans certains domaines : par exemple, en France, on les utilisait pour les péages d'autoroute jusqu’en 1985, et aussi aux Etats-Unis avec certaines machines à voter qui utilisaient les cartes perforées pour des élections, malheureusement cette technique a généré de nombreux litiges à cause de l’ancienneté du matériel.
 
 
-Les Bandes Magnétiques
+## Les Bandes Magnétiques
 
 Les premiers moyens de stockage de données résident dans les cartes perforées, les disques/vinyles (pour le son), et les pellicules de film (pour les images et les films).
 			
@@ -30,20 +30,20 @@ Cependant en 1928, une invention va révolutionner le stockage de données : la 
 La bande magnétique est composée d’un film plastique sur lequel sont appliquées des particules magnétiques. L’enregistrement fonctionne brièvement comme suit : deux rouleaux font défiler le film au contact d’une tête d’enregistrement, qui dépose de la poudre métallique et la fixe avec un électroaimant.
 En plus de pouvoir enregistrer le son et l’image, elle a été exploitée à des fins informatiques, sous format analogique ou numérique. Le premier ordinateur à les utiliser est l’UNIVAC I (1951). Jusque dans les années 1970, elle sert de stockage de masse de données informatiques, alors que le stockage mémoire est peu évolué (quelques dizaines de mégaoctets dans de grosses armoires, avant que les micro-ordinateurs ne les remplacent). Par exemple, les courts et longs-métrages ne pouvaient faire l’objet d’une numérisation, déjà parce qu’il n’y avait pas la technique pour le faire, et surtout par problème de taille (plusieurs centaines de mégaoctets à plusieurs gigaoctets aujourd’hui). Ils étaient donc enregistrés sur des bandes magnétiques. Les bandes magnétiques présentent pour inconvénients de devenir corrompues en fonction des types de composants ou en cas de démagnétisation.
 
-Les Disquettes
+## Les Disquettes
 
-Qu'est-ce qu’une disquette ?
+### Qu'est-ce qu’une disquette ?
 
 Une disquette est un support amovible de stockage de données informatiques. Les disquettes sont également appelées disquettes en raison de la flexibilité de la première génération (8 et 5,25 pouces), et non des disques durs.
 Une disquette se compose d'un disque en plastique mince et flexible renforcé en son centre par un substrat magnétique qui lui est attaché. Le disque est enfermé dans un boîtier de protection en plastique qui comprend une couche intérieure rembourrée et une couche extérieure rigide ou semi-rigide pour améliorer la rotation et le nettoyage du disque. Le dernier niveau comprend des dispositifs physiques pour les lecteurs, permettant spécifiquement la protection en écriture et divers dispositifs de saisie. Les formats de disquettes 3.5 et 5.25 pouces sont les plus courants. Les mesures correspondent au diamètre du disque.
 
-Principe de fonctionnement :
+### Principe de fonctionnement :
 
 Du centre de la disquette vers le bas se trouve une ouverture. Sur les disquettes de 3ème ou 4ème génération (sauf Nintendo), on trouve une protection : une lunette métallique coulissante qui s'écarte lors de l'insertion de la disquette dans le lecteur de disquette. Les données sont stockées magnétiquement sur la couche de disquette.
 Les disquettes Gen1 et Gen2 ont un deuxième trou pour la synchronisation des angles, vous permettant de voir un trou de référence ("secteur souple") ou une série de trous de référence ("secteur dur") dans la section flexible.
 Les lecteurs de disquettes écrivent et lisent les données du disque. L'écriture est inhibée lorsque l'encoche du disque est recouverte (1ère et 2ème génération) ou que le carré en plastique est déplacé comme un interrupteur vers le coin du boîtier (3ème génération).
 
-Structure physique :
+### Structure physique :
 
 Une disquette est divisée en pistes : des cercles concentriques espacés à intervalles réguliers sur sa surface magnétique. Les pistes sont numérotées de 0 à n, et le nombre de pistes est n+1, selon le type de disquette.
 La densité de pistes s'exprime en pistes par pouce (de l’anglais TPI qui signifie « Tape per Inch »), la plus courante étant 135 TPI pour les disquettes 3.5 pouces.
@@ -53,7 +53,7 @@ La piste 0 est la piste la plus externe de la disquette. La piste intérieure es
 Pour PC et Atari ST, chaque secteur représente 512 octets. Un secteur (ou bloc) est la plus petite partie d'un disque qu'un ordinateur peut lire.
 Les lecteurs récents étant équipés de deux têtes de lecture/écriture, les disquettes sont généralement divisées en deux faces numérotées 0 et 1 : une de chaque côté.
 
-Capacité et formatage :
+### Capacité et formatage :
 
 	Pour pouvoir utiliser une disquette, celle-ci doit être formatée. Le formatage "bas niveau" consiste à découper chaque piste en secteurs en inscrivant des marques avant chaque secteur, permettant à la tête de lecture de repérer le début de chaque secteur, de l'identifier (numéro de cylindre, numéro de secteur et numéro de bord), de connaître sa taille (généralement 512 octets sur une disquette) et vérifiez les données avec un CRC (contrôle de redondance cyclique).
 Le formatage réduit donc la capacité de la disquette, cependant, la plupart des disquettes vierges vendues sont déjà formatées et la capacité indiquée est généralement la capacité formatée.
@@ -61,7 +61,7 @@ Certains formateurs peuvent augmenter la capacité utile après formatage en aju
 Le formatage « haut niveau » (ou rapide) consiste pour le système d'exploitation à organiser de façon logique la disquette. Certains secteurs sont donc réservés à la liste de fichiers, et la table d'occupation des secteurs de données. Ce formatage « haut niveau » réduit donc également la capacité utilisable de la disquette.
 
 
-Les CDs-ROM
+## Les CDs-ROM
 
 Un CD-ROM, de l’anglais “Compact Disc Real Only Memory”, qui veut littéralement dire « disque compact à lecture seul », souvent écrit cédérom, est en fait un disque optique utilisé pour stocker des données sous une forme numérique qui est destinée à être lue par un lecteur compatible au CD ou à un ordinateur et un lecteur de CD-ROM qui peut aussi les graver. Le CD audio original est l'ancêtre de celui-ci. Il a une capacité de stockage 100 fois supérieure à un prix similaire ils supplantent les disquettes dans la distribution de données informatiques et de logiciel.
 Philips (société néerlandaise d’électronique basée à Amsterdam, créée le 15 mai 1891 à Eindhoven et fondée par Gérard et Frederik Philips) invente le CD en 1979 et le commercialise principalement pour l'audio en 1985 avec Sony. En 1984, certaines spécifications du CD-ROM sont étendues (avec l’édition du Yellow Book) qui lui permettent de stocker non seulement des données musicales mais aussi informatiques.
@@ -83,7 +83,7 @@ Le standard est la façon de décrire selon laquelle les informations doivent ê
 
 
 
-Les Clés USB
+## Les Clés USB
 
 Une clé USB est un périphérique de stockage de données qui comprend une mémoire flash avec une interface USB intégrée. Il est souvent amovible, réinscriptible et bien plus petit qu’un disque optique : en général une clé USB est très légère, elle ne pèse pas plus de 30 grammes. 
 La clé USB apparaît officiellement sur le marché à la fin des années 2000, mais c’est en 1999 qu’elle a été réellement créée. On ne sait pas vraiment qui en est l’inventeur car plusieurs personnes revendiquent sa création. Le 5 avril 1999, Amir Ban, Dov Moran et Oron Gordan, des entrepreneurs qui travaillent pour la compagnie israélienne M-Systems ont déposés un brevet s'intitulant : “Architecture for a Universal Serial Bus-Based PC Flash Disk” traduit par “Architecture pour un disque flash PC basé sur un bus série universel”. Ces personnes sont la plupart du temps considérées comme les créateurs de la clé USB, mais il y a aussi d’autres personnes comme Shimon Shmueli, un ingénieur de chez IBM qui dépose une déclaration d'invention affirmant qu'il avait inventé la clé USB lors de la même année. La compagnie Trek-2000 est la première compagnie à avoir commercialisé la clé USB, cette compagnie revendique aussi d'être le premier inventeur. 
@@ -94,7 +94,7 @@ En 2010, la capacité de stockage maximale disponible pour les appareils avait a
 En janvier 2013, la société Kingston a lancé une clé USB avec 1 To de stockage. Les premières clés USB 3.1 de type C, avec des vitesses de lecture/écriture d'environ 530 Mo/s, ont été annoncées en mars 2015. En juillet 2016, les clés USB d'une capacité de 8 à 256 Go étaient vendues plus fréquemment que celles d'une capacité comprise entre 512 Go et 1 To. En 2017, Kingston Technology a annoncé la sortie d'une clé USB de 2 To. Puis, en 2018, SanDisk a annoncé un lecteur flash USB-C de 1 To, le plus petit du genre.
 Les clés USB sont parfois contrefaites, les vendeurs de contrefaçons font quelque chose de simple : ils fabriquent des clés USB ne pouvant contenir que très peu de données et les vendent en affichant un produit qui en a bien plus (par exemple : ils fabriquent des clés de 8 Go et les vendent comme des clés de 32 Go) ce qui fait que ça ne leur coûte pas cher et leur permet d’en tirer un maximum de profit. Quand la clé USB contrefaite arrive à un stockage plein, elle peut faire plusieurs choses : en premier elle peut juste supprimer les fichiers déjà enregistrés dessus. En deuxième, un peu plus compliqué, elle peut faire en sorte de supprimer le contenu des fichiers les plus anciens pour les faire perdre en volume et donc écrire les nouveaux fichiers. En dernier, bien plus simple que les deux précédents, elle peut arrêter de fonctionner et afficher un message d’erreur d'écriture de fichiers. 
 
-Les Cartes SD
+## Les Cartes SD
 
 En 1999, la carte SD (carte mémoire « Secure Digital ») est imaginée afin de répondre à un besoin de stocker des fichiers (le plus souvent des photos / vidéos) sur des appareils nomades comme les appareils photo. En Janvier 2000, les grandes entreprises Matsuhita Electronic, Toshiba et SanDisk la commercialisent pour la première fois. Depuis 2010, elle est un des formats de stockage amovible les plus répandus dans le monde : on retrouve des cartes SD dans la plupart des appareils modernes comme nos smartphones, nos consoles de jeu, GoPros, …
 Les caractéristiques d’une carte SD :
@@ -112,11 +112,11 @@ La carte SD est donc le système de stockage amovible le plus récent et permett
 
 
 
-Conclusion
+## Conclusion
 	Pour conclure, les systèmes de stockage ont pour origine les cartes perforées crées en 1728 qui ont permis ensuite d’énoncer le principe de stockage de données en informatique : se sont donc utilisées les bandes magnétiques dans les années 1930 jusque dans les années 70 pour le stockage de films, puis à la fin des années 70 les disquettes sont très utilisées pour le stockage de fichiers sur ordinateurs. S’ensuivent les CDs-ROM dans les années 80, capables de stocker 100 fois plus de données que les disquettes. Puis, encore utilisées et très populaires de nos jours, les clefs USB et les cartes SD qui peuvent stocker beaucoup plus de données et à usages plutôt polyvalents.
 
 
-Sources utilisées :
+## Sources utilisées :
 
 https://www.cnetfrance.fr/produits/sigles-et-symboles-de-cartes-memoires-les-comprendre-pour-ne-pas-se-tromper-39799567.htm#:~:text=Ceux%20li%C3%A9s%20%C3%A0%20la%20capacit%C3%A9,mais%20celles%2Dci%20ont%20disparu.
 https://fr.wikipedia.org/wiki/Carte_SD#:~:text=Une%20carte%20SD%20(%C2%AB%20SD%20%C2%BB,industriels%20Panasonic%2C%20SanDisk%20et%20Toshiba.
